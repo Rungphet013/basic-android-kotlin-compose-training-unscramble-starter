@@ -1,3 +1,3 @@
 
 
-<image src = /007.PNG>
+<image src = /007.png>
